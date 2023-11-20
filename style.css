@@ -41,7 +41,8 @@ main .container .card .card-title .title-img img {
     border-radius: 50%;
 }
 main .container .card .card-title .title-text .title1 {
-    color: #FFFFFF
+    color: #FFFFFF;
+    margin-bottom: 5%;
 }
 main .container .card .card-title .title-text .title2 {
     color: #CCCCCD;
